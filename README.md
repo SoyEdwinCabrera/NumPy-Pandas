@@ -57,13 +57,5 @@ print(df)
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar el contenido, corrige errores o agrega nuevos ejemplos, por favor haz un fork y envía un pull request.
 
-## Licencia
 
-Este proyecto está bajo la licencia MIT.
 
-## Autor
-
-- **Edwin Cabrera**  
-  [GitHub](https://github.com/SoyEdwinCabrera)
-
-````
